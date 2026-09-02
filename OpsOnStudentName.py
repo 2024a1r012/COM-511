@@ -1,0 +1,6 @@
+name=input("Enter Your Full Name:")
+print(f"Total Number of characters:{len(name)}")
+print(f"First characters:{len(name)}")
+print(f"First characters:{name[0]}")
+print(f"Last characters:{name[-1]}")
+print(f"Capitalized name:{name.upper()}")
